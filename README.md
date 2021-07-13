@@ -52,8 +52,7 @@ Neste projeto, você implementará um editor de arte com pixels. Ou seja, dada u
 - <p><a href="#2"> :pushpin: 2.</a> A página deve possuir uma paleta de quatro cores distintas.</p>
 - <p><a href="#3"> :pushpin: 3.</a> A cor **preta** deve ser a primeira na paleta de cores.</p>
 - <p><a href="#4"> :pushpin: 4.</a> A página deve possuir um quadro de pixels, com 25 pixels.</p>
-- <p><a href="#5"> :pushpin: 5.</a> Cada elemento do quadro de pixels deve possuir 40 _pixels_ de largura e 40 _pixels_ de altura e ser delimitado por uma borda preta de 1 pixel.
-</p>
+- <p><a href="#5"> :pushpin: 5.</a> Cada elemento do quadro de pixels deve possuir 40 _pixels_ de largura e 40 _pixels_ de altura e ser delimitado por uma borda preta de 1 pixel.</p>
 - <p><a href="#6"> :pushpin: 6.</a> Ao carregar a página, a cor **preta** da paleta já deve estar selecionada para pintar os pixels.</p>
 - <p><a href="#7"> :pushpin: 7.</a> Ao clicar em uma das cores da paleta, a cor selecionada é que vai ser usada para preencher os pixels no quadro.</p>
 - <p><a href="#8"> :pushpin: 8.</a> Ao clicar em um pixel dentro do quadro após selecionar uma cor na paleta, o pixel deve ser preenchido com esta cor.</p>
