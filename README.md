@@ -64,7 +64,7 @@ Neste projeto, você implementará um editor de arte com pixels. Ou seja, dada u
 
 ### Concluído :rocket:
 
-Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/Trybe_Projeto_5-5_Edu_Souza/).
+Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/Trybe_Projeto_5-6_Edu_Souza/).
 
 #
 ## :unlock: Licença
