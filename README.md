@@ -41,7 +41,7 @@ Neste projeto, você implementará um editor de arte com pixels. Ou seja, dada u
 #### Screenshots:
 
 <p align=center >
-  <img height="200px"  src="./img/home_desktop.png"> &nbsp;
+  <img height="200px"  src="./img/home_desktop1.png"> &nbsp;
 </p>
 
 ## :postbox: Entrega
