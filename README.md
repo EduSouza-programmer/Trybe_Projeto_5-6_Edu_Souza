@@ -46,7 +46,7 @@ Neste projeto, você implementará um editor de arte com pixels. Ou seja, dada u
 
 ## :postbox: Entrega
 
-### :clipboard: Requisitos
+#### :clipboard: Requisitos
 
 - <p><a href="#1"> :pushpin: 1.</a> A página deve possuir o título "Paleta de Cores.</p>
 - <p><a href="#2"> :pushpin: 2.</a> A página deve possuir uma paleta de quatro cores distintas.</p>
